@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Console', 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: steelblue;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 75px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 50px;
+    color: brown;
+}
+
+table {
+    background-color: whitesmoke;
+    border-color: blueviolet;
+}
+
+thead {
+    font-size: 30px;
+    background-color: black;
+    color: aqua;
+}
+
+tbody {
+    font-size: 20px;
+}
+
+td, th {
+    padding: 10px;
+}
+
+td {
+    text-align: left;
+}
